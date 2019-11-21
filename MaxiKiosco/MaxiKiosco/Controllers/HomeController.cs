@@ -23,10 +23,17 @@ namespace MaxiKiosco.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Galeria()
         {
             return View();
         }
+
+
+        public IActionResult Contactenos()
+        {
+            return View();
+        }
+  
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

@@ -13,7 +13,6 @@ C:\Users\carlo\source\repos\sistema\MaxiKiosco\MaxiKiosco\obj\Debug\netcoreapp3.
 C:\Users\carlo\source\repos\sistema\MaxiKiosco\MaxiKiosco\obj\Debug\netcoreapp3.0\MaxiKiosco.TagHelpers.output.cache
 C:\Users\carlo\source\repos\sistema\MaxiKiosco\MaxiKiosco\obj\Debug\netcoreapp3.0\MaxiKiosco.RazorCoreGenerate.cache
 C:\Users\carlo\source\repos\sistema\MaxiKiosco\MaxiKiosco\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\carlo\source\repos\sistema\MaxiKiosco\MaxiKiosco\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\carlo\source\repos\sistema\MaxiKiosco\MaxiKiosco\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\carlo\source\repos\sistema\MaxiKiosco\MaxiKiosco\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\carlo\source\repos\sistema\MaxiKiosco\MaxiKiosco\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -129,3 +128,5 @@ C:\Users\carlo\source\repos\sistema\MaxiKiosco\MaxiKiosco\obj\Debug\netcoreapp3.
 C:\Users\carlo\source\repos\sistema\MaxiKiosco\MaxiKiosco\obj\Debug\netcoreapp3.0\Razor\Views\Categorias\Details.cshtml.g.cs
 C:\Users\carlo\source\repos\sistema\MaxiKiosco\MaxiKiosco\obj\Debug\netcoreapp3.0\Razor\Views\Categorias\Edit.cshtml.g.cs
 C:\Users\carlo\source\repos\sistema\MaxiKiosco\MaxiKiosco\obj\Debug\netcoreapp3.0\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Users\carlo\source\repos\sistema\MaxiKiosco\MaxiKiosco\obj\Debug\netcoreapp3.0\Razor\Views\Home\Galeria.cshtml.g.cs
+C:\Users\carlo\source\repos\sistema\MaxiKiosco\MaxiKiosco\obj\Debug\netcoreapp3.0\Razor\Views\Home\Contactenos.cshtml.g.cs
